@@ -1,4 +1,10 @@
 <?php
+/**
+ * Encrypt_canon
+ * @author: canon
+ * @website: https://github.com/canon1014
+ * @date: 2019-05-19
+ */
 class Encrypt_canon
 {
     protected $string;
@@ -7,10 +13,7 @@ class Encrypt_canon
     protected $keyBin;
     public $secretString;
 
-
-
-
-    public function encrypt($string,$key)
+    public function encrypt($string, $key)
     {
         $this->secretString = '';
         $stringBin  = $this->strToBin($string);

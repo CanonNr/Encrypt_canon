@@ -5,6 +5,7 @@
  * @website: https://github.com/canon1014
  * @date: 2019-05-19
  */
+namespace Encrypt_canon;
 class Encrypt_canon
 {
     protected $string;

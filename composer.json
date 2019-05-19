@@ -1,8 +1,7 @@
 {
     "name": "canon1014/encrypt",
     "description": "\u000f\u000f\u000f\u000f\u000f\u000f",
-    "license": "1.0",
-
+    "license": "MIT",
     "type": "library",
     "authors": [
         {

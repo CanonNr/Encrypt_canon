@@ -1,12 +1,12 @@
 <?php
 /**
- * Encrypt_canon
+ * encryptCanon
  * @author: canon
  * @website: https://github.com/canon1014
  * @date: 2019-05-19
  */
-namespace Encrypt_canon;
-class Encrypt_canon
+namespace encryptCanon;
+class encryptCanon
 {
     protected $string;
     protected $key;

@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Encrypt_canon\\": "src/"
+            "encryptCanon\\": "src/"
         }
     }
 }
